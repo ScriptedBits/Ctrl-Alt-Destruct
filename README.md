@@ -28,7 +28,7 @@ Players match sarcastic, tech-themed white cards (e.g., *“Blue Screen of Death
 Ready to unleash IT chaos with Ctrl-Alt-Destruct? Whether you want the **physical box set** of cards or the **online version** for virtual mayhem, we’ve got you covered! For now, reach out to us directly to place your order:
 
 - 📧 Email: 
-- 📬 DM: [@ Network232]
+- 📬 DM: [@ Network232] on X.com
 
 Drop us a line with your preferred version (box set or online), and we’ll hook you up with pricing and details. Stay tuned for a proper store page coming soon!
 
