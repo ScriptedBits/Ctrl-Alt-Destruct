@@ -8,12 +8,11 @@ Ctrl-Alt-Destruct is a card game for sysadmins, developers, hackers, and the caf
 
 ## 🚀 Features
 
-- Multiplayer card-based game (3+ players)
+- Multiplayer browser game as well (3+ players)
 - Red prompt cards & white answer cards (drawn from a CSV)
 - Rotating judge ("Root User")
 - Supports desktop, tablet, and mobile-friendly UI
 - Host your own local game server
-- Optional downloadable EXE for Windows users
 - Built-in rules, lobby, score tracking, and end-game screen
 
 ---
@@ -21,3 +20,4 @@ Ctrl-Alt-Destruct is a card game for sysadmins, developers, hackers, and the caf
 ## 📸 Screenshots
 
 
+![sample question](https://github.com/user-attachments/assets/87a4bcf6-0e6e-4da6-90e7-2018735780be)
