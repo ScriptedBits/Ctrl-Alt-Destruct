@@ -1,21 +1,29 @@
 # 🎮 Ctrl-Alt-Destruct
+*A satirical card game of IT chaos, caffeine, and cybersecurity gone hilariously wrong.*
 
-*A satirical multiplayer game of IT chaos, caffeine, and questionable judgment.*
+Ctrl-Alt-Destruct is a multiplayer card game for sysadmins, developers, hackers, and anyone fueled by caffeine. Grab a drink, unleash your inner Root User, and outwit your friends with the most chaotic tech-themed answers.
 
-Ctrl-Alt-Destruct is a card game for sysadmins, developers, hackers, and the caffeine-dependent. Grab a drink, unleash your inner Root User, and compete for ultimate (in)sanity.
 
----
+## 🎲 What Is It?
+
+Ctrl-Alt-Destruct is a browser-based multiplayer game (also playable with physical cards) perfect for:
+- Cybersecurity meetups
+- Hacker conventions
+- Team-building with memes & mayhem
+- Tech onboarding or company off-sites
+
+Players match sarcastic, tech-themed white cards (e.g., *“Blue Screen of Death”*) to red prompt cards (e.g., *“What’s the worst way to end a sprint?”*). The Root User (judge) picks the funniest combo. Play with 3+ players, in-person or online, and unleash IT chaos!
 
 ## 🚀 Features
 
-- Multiplayer browser game as well (3+ players)
-- Red prompt cards & white answer cards (drawn from a CSV)
-- Rotating judge ("Root User")
-- Supports desktop, tablet, and mobile-friendly UI
-- Host your own local game server
-- Built-in rules, lobby, score tracking, and end-game screen
+- **Multiplayer Fun**: Play with 3+ players online or in-person.
+- **Hilarious Cards**: Match tech-themed prompts and answers for maximum chaos.
+- **Rotating Judge**: Take turns as the Root User to pick the funniest response.
+- **Cross-Platform**: Works on desktop, tablet, and mobile.
+- **Self-Hosted**: Run your own local game server.
+- **Gameplay Tools**: Built-in rules, lobby, score tracking, and end-game screen.
 
----
+
 
 ## 📸 Screenshots
 
