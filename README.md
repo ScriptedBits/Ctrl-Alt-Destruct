@@ -30,7 +30,7 @@ Ready to unleash IT chaos with Ctrl-Alt-Destruct? Whether you want the **physica
 - 📧 Email: 
 - 📬 DM: [@ Network232] on X.com
 
-Drop us a line with your preferred version (box set or online), and we’ll hook you up with pricing and details. Stay tuned for a proper store page coming soon!
+Drop us a line with your preferred version (box set or online), Box set $40.00usd  / Online version $25.00. Stay tuned for a proper store page coming soon!
 
 ## 📸 Screenshots
 
