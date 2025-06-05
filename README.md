@@ -25,7 +25,7 @@ Players match sarcastic, tech-themed white cards (e.g., *“Blue Screen of Death
 
 ## 💸 How to Buy
 
-Ready to unleash IT chaos with Ctrl-Alt-Destruct? Whether you want the **physical box set** of cards or the **online version** for virtual mayhem, we’ve got you covered! Head over to [to](https://ctrl-alt-destruct.com/) to place your order:
+Ready to unleash IT chaos with Ctrl-Alt-Destruct? Whether you want the **physical box set** of cards or the **online version** for virtual mayhem, we’ve got you covered! Head over to https://ctrl-alt-destruct.com/ to place your order:
 
 - 📧 Email: 
 - 📬 DM: [@ Network232] on X.com
