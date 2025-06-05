@@ -25,12 +25,12 @@ Players match sarcastic, tech-themed white cards (e.g., *“Blue Screen of Death
 
 ## 💸 How to Buy
 
-Ready to unleash IT chaos with Ctrl-Alt-Destruct? Whether you want the **physical box set** of cards or the **online version** for virtual mayhem, we’ve got you covered! For now, reach out to us directly to place your order:
+Ready to unleash IT chaos with Ctrl-Alt-Destruct? Whether you want the **physical box set** of cards or the **online version** for virtual mayhem, we’ve got you covered! Head over to [to](https://ctrl-alt-destruct.com/) to place your order:
 
 - 📧 Email: 
 - 📬 DM: [@ Network232] on X.com
 
-Drop us a line with your preferred version (box set or online), Box set $40.00usd  / Online version $25.00. Stay tuned for a proper store page coming soon!
+Card Box set $40.00usd  / Online version $25.00 with purchase of the card set.
 
 ## 📸 Screenshots
 
