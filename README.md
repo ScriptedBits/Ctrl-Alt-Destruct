@@ -30,8 +30,6 @@ Ready to unleash IT chaos with Ctrl-Alt-Destruct? Whether you want the **physica
 - 📧 Email: 
 - 📬 DM: [@ Network232] on X.com
 
-Card Box set $40.00usd  / Online version $25.00 with purchase of the card set.
-
 ## 📸 Screenshots
 
 
